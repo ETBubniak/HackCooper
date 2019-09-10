@@ -12,7 +12,7 @@ class App extends Component {
       <div id="main">
         <div className="container"  id="notmap">
           <div id="title">
-            <h1>Divercity project</h1>
+            <h1>DiverCity project</h1>
           </div>
           <Route path="/" component={information} />
           <Route path="/" component={controller} />
