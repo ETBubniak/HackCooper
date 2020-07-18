@@ -8,7 +8,7 @@
     "d3": "^5.11.0",
     "express": "^4.17.1",
     "heroku": "^7.29.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "pure-react-carousel": "^1.22.0",
     "react": "^16.9.0",
     "react-bootstrap": "^1.0.0-beta.12",
